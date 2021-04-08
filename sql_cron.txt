@@ -1,5 +1,0 @@
-SHELL=/jac_sw/bin/crabsh
-CRABECHO=true
-MAILTO=x.jiang@eaobservatory.org
-
-0 9 * * * CRABID=SQL_Aweoweo cd /home/xjiang/sql_aweoweo && python3 /home/xjiang/sql_aweoweo/aweoweo_daily_sql.py
