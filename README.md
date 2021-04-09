@@ -1,4 +1,4 @@
-**Daily update of Aweoweo observations & file paths.**
+**Daily update of Aweoweo observational information & file paths.**
 
 
 1. aweoweo_file_*.txt show the data file paths of a given date. For exampla:
