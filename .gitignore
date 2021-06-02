@@ -1,2 +1,4 @@
 src/aweoweo_daily_sql.py
+src/aweoweo_monthly_sql.py
 src/sql_cron.txt
+archive
