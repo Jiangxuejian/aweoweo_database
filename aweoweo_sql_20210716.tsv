@@ -1,0 +1,3 @@
+utdate	obsnum	project	object	file_id	msbtitle	obs_sb	subsysnr	subbands	restfreq	molecule	transiti
+20210716	14	JCMTCAL	RXBoo	a20210716_00014_01_0001.sdf	Aweoweo 5GHz Point Focus-ZXY Point (7-sample)	LSB	1	1000MHzx2048	345.7959899	CO	3 - 2
+20210716	14	JCMTCAL	RXBoo	a20210716_00014_02_0001.sdf	Aweoweo 5GHz Point Focus-ZXY Point (7-sample)	USB	2	1000MHzx2048	355.7959899	No Line	No Line

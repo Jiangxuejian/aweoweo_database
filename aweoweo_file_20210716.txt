@@ -1,0 +1,2 @@
+/jcmtdata/raw/acsis/spectra/20210716/00014/a20210716_00014_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210716/00014/a20210716_00014_02_0001.sdf
