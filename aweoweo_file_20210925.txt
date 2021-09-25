@@ -1,0 +1,16 @@
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_03_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_04_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_05_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_06_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_07_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00002/a20210925_00002_08_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_03_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_04_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_05_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_06_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_07_0001.sdf
+/jcmtdata/raw/acsis/spectra/20210925/00004/a20210925_00004_08_0001.sdf
