@@ -1,0 +1,14 @@
+/jcmtdata/raw/acsis/spectra/20211018/00042/a20211018_00042_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00042/a20211018_00042_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00043/a20211018_00043_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00043/a20211018_00043_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00044/a20211018_00044_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00044/a20211018_00044_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00045/a20211018_00045_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00045/a20211018_00045_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00046/a20211018_00046_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00046/a20211018_00046_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00047/a20211018_00047_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00047/a20211018_00047_02_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00048/a20211018_00048_01_0001.sdf
+/jcmtdata/raw/acsis/spectra/20211018/00048/a20211018_00048_02_0001.sdf
