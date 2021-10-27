@@ -1,0 +1,3 @@
+utdate	obsnum	project	object	file_id	msbtitle	obs_sb	subsysnr	subbands	restfreq	molecule	transiti
+20211027	47	JCMTCAL	CRL618	a20211027_00047_01_0001.sdf	Aweoweo Point Focus-ZXY Point (7-sample)	LSB	1	1000MHzx2048	345.7959899	CO	3 - 2
+20211027	47	JCMTCAL	CRL618	a20211027_00047_02_0001.sdf	Aweoweo Point Focus-ZXY Point (7-sample)	USB	2	1000MHzx2048	359.3959899	No Line	No Line
