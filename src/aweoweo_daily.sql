@@ -1,8 +1,8 @@
-today=$(date +'%Y%m%d')
+today=$(date '+%Y%m%d')
 
 mysql -h omp1 -u staff -b -p -e "select utdate, obsnum, project, object,
-file_id, msbtitle, obs_sb, jcmt.ACSIS.subsysnr, subbands, jcmt.ACSIS.restfreq,
-molecule, transiti
+msbtitle, obs_sb, jcmt.ACSIS.subsysnr, subbands, jcmt.ACSIS.lofreqs, jcmt.ACSIS.restfreq,
+molecule, transiti, tau225st, file_id 
 from jcmt.ACSIS
 join jcmt.COMMON on jcmt.ACSIS.obsid=jcmt.COMMON.obsid
 join jcmt.FILES on jcmt.ACSIS.obsid_subsysnr=jcmt.FILES.obsid_subsysnr
